@@ -1,0 +1,19 @@
+exportPattern("^[[:alpha:]]+")
+export(
+robreg3S
+)
+#importFrom(quantreg, rq)
+importFrom(GSE, GSE)
+importFrom(MASS, rlm)
+importFrom(MASS, mvrnorm)
+importFrom(robustbase, lmrob)
+importFrom("stats", "coef", "mad", "mahalanobis", "median", "na.omit",
+             "pexp", "pnorm", "qnorm", "quantile", "rbinom", "rnorm")
+
+S3method(print, robreg3S)
+S3method(coef, robreg3S)
+S3method(summary, robreg3S)
+S3method(confint, robreg3S)
+
+
+

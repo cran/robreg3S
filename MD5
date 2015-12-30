@@ -1,0 +1,11 @@
+84795a49c8a4af3e4ce9501de8c7f86d *DESCRIPTION
+5572bff1fea5f02e5999d21e85ebc11c *NAMESPACE
+816caaf22ba807505230cc63d6959cf1 *R/acov.R
+80894979defb07607b99549c3e61487d *R/filter.R
+8745a33a68d953c09f2079c2aefdaf8d *R/robreg3S-dummies.R
+ab938f9a640cb84dbffb37361a72d544 *R/robreg3S-nodummies.R
+ff4101d9c6b6a429d7d682cccc4ea19b *R/robreg3S.R
+fb548bf369ec2ed32d331678ee4e2868 *R/simulation-utils.R
+c173c6107b7b95fc438cebb9d50d4255 *R/util.R
+77c6b9d8cf07a4519a8efa5d88da0413 *man/robreg3S.Rd
+cc972d4f8bdf43f0e41eec86ab72dd5d *man/simulation-tools.Rd
